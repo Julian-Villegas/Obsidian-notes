@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "be65dd98013656d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f7a4a4ccfd3f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e179989ec1afbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos Básicos/Certifications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Certifications"
+            }
+          },
+          {
+            "id": "ad378aec9b5c2f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/CTF HACKACYBER SED BOGOTA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTF HACKACYBER SED BOGOTA"
+            }
+          },
+          {
+            "id": "274dfe38cf0f71c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/Practica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practica"
+            }
+          },
+          {
+            "id": "8a9608fb092f87a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/CTF HACKACYBER SED BOGOTA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTF HACKACYBER SED BOGOTA"
+            }
+          },
+          {
+            "id": "7af7b11c43242320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/REACTOR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REACTOR"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c69e8d66ac650f13",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc01d50398f40de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4d96a9d8d44588",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "78fec841e494e7c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c9a01f198362c516",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ba8abd616cab9256",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3d501343aebdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734fb95ae983ed85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciberseguridad/Introducción a Directorio Activo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Introducción a Directorio Activo"
+            }
+          },
+          {
+            "id": "989e1522c3596e2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ciberseguridad/Introducción a Directorio Activo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Introducción a Directorio Activo"
+            }
+          },
+          {
+            "id": "18b34490bf5afce8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "903616c28cc6547f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciberseguridad/Introducción a Directorio Activo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Introducción a Directorio Activo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "7af7b11c43242320",
+  "lastOpenFiles": [
+    "Cheat Sheets/Practica.md",
+    "Cheat Sheets/RUTA.md",
+    "Cheat Sheets/REACTOR.md",
+    "Cheat Sheets/CTF HACKACYBER SED BOGOTA.md",
+    "Conceptos Básicos/Certifications.md",
+    "Cheat Sheets",
+    "Conceptos Básicos/Pentesting.md",
+    "Conceptos Básicos/Software Vulnerabilities.md",
+    "Conceptos Básicos/Password Attacks.md",
+    "Conceptos Básicos/Types of Malware.md",
+    "Redes/Data Transmission.md",
+    "Ethical Hacking Course",
+    "Pasted image 20260228215258.png",
+    "Directorio Activo/Estructura de un Active Directory.md",
+    "Directorio Activo/Técnicas de hacking.md",
+    "Redes/Networking Cisco.md",
+    "Conceptos Básicos",
+    "Directorio Activo/Comandos de enumeración.md",
+    "Pasted image 20250921211905.png",
+    "Pasted image 20250919075447.png",
+    "Directorio Activo/Comandos y Herramientas.md",
+    "Directorio Activo/Active Directory UDEMY.md",
+    "Ciberseguridad/Estructura del directorio activo de Windows.md",
+    "Ciberseguridad/Foothold.md",
+    "Redes",
+    "Ciberseguridad/Terminología de un Directorio Activo.md",
+    "Ciberseguridad/Palabras clave.md",
+    "Ciberseguridad/Introducción a Directorio Activo.md",
+    "Pasted image 20250919074539.png",
+    "Directorio Activo",
+    "Sin título.canvas",
+    "Pasted image 20250919071345.png",
+    "Pasted image 20250919071341.png"
+  ]
+}
