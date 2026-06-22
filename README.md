@@ -27,7 +27,10 @@ The laboratory organization follows a logical hierarchy optimized for tactical e
 │   └── 📁 TryHackMe/
 └── 📁 04-Tools/              # Specific notes and usage for hacking tools
 
-🛠️ Integrated Post-Exploitation Workflow
+```
+---
+
+Integrated Post-Exploitation Workflow
 My privilege escalation and lateral movement notes leverage industry-standard reference methodologies directly:
 
 Internal Enumeration: Manual checklists and automated enumeration scripts.
@@ -36,7 +39,5 @@ PrivEsc Vectors: Exploitation of misconfigurations (SUID, capabilities, Cron job
 
 Pivoting Strategies: Dynamic tunneling infrastructure using Chisel, Proxychains, and Ligolo-ng.
 
-⚙️ Automated Sinking
+Automated Syncing
 Synchronization between environments is handled transparently via the Obsidian Git community plugin, performing automated background commits utilizing SSH cryptographic keys to maintain real-time laboratory integrity.
-
-⚠️ Disclaimer: All information, notes, and code contained within this repository are strictly intended for educational purposes and research in controlled, authorized environments. I do not take responsibility for any misuse of the techniques documented here.
