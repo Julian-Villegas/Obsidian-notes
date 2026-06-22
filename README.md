@@ -1,3 +1,4 @@
+```markdown
 # ─── ❖ HACK THE BOX & OFFENSIVE SECURITY VAULT ❖ ───
 
 <p align="center">
@@ -6,23 +7,43 @@
   <img src="https://img.shields.io/badge/Tool-Obsidian-purple?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
 </p>
 
-Este repositorio es mi bóveda centralizada de documentación, metodologías y *write-ups* de máquinas explotadas en **Hack The Box** y otras plataformas de entrenamiento ofensivo. 
+This repository serves as my centralized vault for documentation, methodologies, and write-ups of compromised machines across **Hack The Box** and other offensive security training platforms.
 
-Toda la estructura está gestionada de forma nativa a través de **Obsidian**, sirviendo como base de conocimiento dinámica para procesos de reconocimiento, explotación y post-explotación.
+The entire structure is natively managed using **Obsidian**, acting as a dynamic knowledge base for reconnaissance, exploitation, and post-exploitation workflows.
 
 ---
 
-## 📂 Estructura de la Bóveda
+## 📂 Vault Structure
 
-La organización del laboratorio sigue una jerarquía lógica orientada a la eficiencia táctica durante una intrusión:
+The laboratory organization follows a logical hierarchy optimized for tactical efficiency during an intrusion:
 
 ```text
 .
-├── 📁 01-Metodologias/        # Guías paso a paso (PrivEsc, Pivoting, AD)
-├── 📁 02-Cheat-Sheets/        # Comandos rápidos (Nmap, Reverse Shells, One-Liners)
-├── 📁 03-Plataformas/
+├── 📁 01-Methodologies/      # Step-by-step guides (PrivEsc, Pivoting, AD)
+├── 📁 02-Cheat-Sheets/       # Quick commands (Nmap, Reverse Shells, One-Liners)
+├── 📁 03-Platforms/
 │   ├── 📁 HackTheBox/
-│   │   ├── 📁 Linux/         # Write-ups organizados por SO y dificultad
+│   │   ├── 📁 Linux/         # Write-ups organized by OS and difficulty
 │   │   └── 📁 Windows/
 │   └── 📁 TryHackMe/
-└── 📁 04-Herramientas/        # Notas de uso de herramientas específicas
+└── 📁 04-Tools/              # Specific notes and usage for hacking tools
+
+```
+
+---
+
+## 🛠️ Integrated Post-Exploitation Workflow
+
+My privilege escalation and lateral movement notes leverage industry-standard reference methodologies directly:
+
+* **Internal Enumeration:** Manual checklists and automated enumeration scripts.
+* **PrivEsc Vectors:** Exploitation of misconfigurations (SUID, capabilities, Cron jobs, token impersonation).
+* **Pivoting Strategies:** Dynamic tunneling infrastructure using `Chisel`, `Proxychains`, and `Ligolo-ng`.
+
+---
+
+## ⚙️ Automated Sinking
+
+Synchronization between environments is handled transparently via the **Obsidian Git** community plugin, performing automated background commits utilizing SSH cryptographic keys to maintain real-time laboratory integrity.
+
+---
