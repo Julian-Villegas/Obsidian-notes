@@ -1,5 +1,4 @@
 
-
 ---
 
 ## 🛠️ Fase 1: Reconocimiento Activo (Antes de atacar)

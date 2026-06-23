@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eed9afb258782021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Cheat Sheets/CAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CAP"
-            }
-          },
-          {
             "id": "a2df7a4dcb04e40c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Cheat Sheets/REACTOR.md",
+                "file": "Learning/Active Directory/Comandos de enumeración.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REACTOR"
+              "title": "Comandos de enumeración"
             }
           }
         ]
@@ -58,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -185,21 +171,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "eed9afb258782021",
+  "active": "a2df7a4dcb04e40c",
   "lastOpenFiles": [
-    "Notas/Cheat Sheets/RUTA.md",
-    "Notas/Cheat Sheets/REACTOR.md",
-    "Notas/Cheat Sheets/CAP.md",
-    "Notas/Cheat Sheets/Practica.md",
-    "Notas/Cheat Sheets/CTF HACKACYBER SED BOGOTA.md"
+    "Learning/Active Directory/Active Directory UDEMY.md",
+    "Learning/Networking/Data Transmission.md",
+    "Learning/Networking",
+    "Learning/Active Directory/Técnicas de hacking.md",
+    "Learning/Active Directory/Estructura de un Active Directory.md",
+    "Learning/Active Directory/Comandos y Herramientas.md",
+    "Learning/Active Directory/Comandos de enumeración.md",
+    "Learning/Active Directory",
+    "Learning/Basic Concepts/Types of Malware.md",
+    "Learning/Basic Concepts/Software Vulnerabilities.md",
+    "Learning/Basic Concepts/Pentesting.md",
+    "Learning/Basic Concepts/Password Attacks.md",
+    "Learning/Basic Concepts/Certifications.md",
+    "Learning/Basic Concepts",
+    "Labs/Platforms/HackTheBox/Linux/RUTA.md",
+    "Labs/Methodologies/RUTA.md",
+    "Notas/Pasted image 20260228215258.png",
+    "Labs/Platforms/HackTheBox/Linux/REACTOR.md",
+    "Labs/Platforms/HackTheBox/Linux/CAP.md",
+    "Labs/Platforms/HackTheBox/Linux/Cheat Sheets/RUTA.md",
+    "Labs/Platforms/HackTheBox/Linux/Cheat Sheets/REACTOR.md",
+    "Labs/Platforms/HackTheBox/Linux/Cheat Sheets/CAP.md",
+    "Labs/Platforms/HackTheBox/Linux/Cheat Sheets",
+    "Labs/Platforms/HackTheBox/Windows",
+    "Labs/Platforms/HackTheBox/Linux",
+    "Labs/Platforms/HackTheBox",
+    "Labs/Platforms",
+    "Labs/Methodologies",
+    "Labs/Cheat-Sheets",
+    "Platforms/HackTheBox/Linux/Cheat Sheets/RUTA.md",
+    "Platforms/HackTheBox/Linux/Cheat Sheets/REACTOR.md",
+    "Platforms/HackTheBox/Linux/Cheat Sheets/CAP.md",
+    "Learning/Pasted image 20260228215258.png",
+    "Learning/Redes/Data Transmission.md",
+    "Learning/Directorio Activo/Técnicas de hacking.md",
+    "Learning/Directorio Activo/Estructura de un Active Directory.md",
+    "Learning/Directorio Activo/Comandos y Herramientas.md",
+    "Learning/Directorio Activo/Comandos de enumeración.md"
   ]
 }
