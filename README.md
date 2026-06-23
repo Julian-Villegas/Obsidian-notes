@@ -17,15 +17,19 @@ The entire structure is natively managed using **Obsidian**, acting as a dynamic
 The laboratory organization follows a logical hierarchy optimized for tactical efficiency during an intrusion:
 
 ```text
-.
-├── 📁 01-Methodologies/      # Step-by-step guides (PrivEsc, Pivoting, AD)
-├── 📁 02-Cheat-Sheets/       # Quick commands (Nmap, Reverse Shells, One-Liners)
-├── 📁 03-Platforms/
-│   ├── 📁 HackTheBox/
-│   │   ├── 📁 Linux/         # Write-ups organized by OS and difficulty
-│   │   └── 📁 Windows/
-│   └── 📁 TryHackMe/
-└── 📁 04-Tools/              # Specific notes and usage for hacking tools
+
+├── 📁 Labs/
+│   ├── 📁 01-Methodologies/      # Step-by-step guides (PrivEsc, Pivoting, AD)
+│   ├── 📁 02-Cheat-Sheets/       # Quick commands (Nmap, Reverse Shells, One-Liners)
+│   └── 📁 03-Platforms/
+│       ├── 📁 HackTheBox/        # Write-ups organized by OS and difficulty
+│       │   ├── 📁 Linux/         
+│       │   └── 📁 Windows/
+│       └── 📁 TryHackMe/
+└── 📁 Learning/
+    ├── 📁 Active Directory/
+    ├── 📁 Basic Concepts/
+    └── 📁 Networking/
 
 ```
 ---
