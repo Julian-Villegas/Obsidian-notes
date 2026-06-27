@@ -12,4 +12,4 @@ Like bandwith troughput is the capacity of a medium to carry data in a timeframe
 * The amount of data being sent and received over the connection 
 * The types of data being transmitted 
 * The **latency** created by the number of network devices encountered between source and destination.
-**Latency**:  
+**Latency**:  Refers to the amount of time, including delays, for data to travel from one given point to another.
