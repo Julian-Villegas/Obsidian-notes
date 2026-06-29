@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48dfb7c807db23f9",
+        "id": "98015c3927673b79",
         "type": "tabs",
         "children": [
           {
-            "id": "f1eeed5496578a3f",
+            "id": "6374384e288e0511",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Labs/Platforms/HackTheBox/Linux/ENIGMA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ENIGMA"
             }
           }
         ]
@@ -176,19 +180,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1eeed5496578a3f",
+  "active": "6374384e288e0511",
   "lastOpenFiles": [
+    "Labs/Platforms/HackTheBox/Linux/REACTOR.md",
+    "Labs/Platforms/HackTheBox/Linux/ENIGMA.md",
     "Labs/Platforms/HackTheBox/Linux/CAP.md",
     "Labs/Cheat-Sheets/Linux Capabilities.md",
     "Sin título.canvas",
+    "Learning/Active Directory/Active Directory UDEMY.md",
     "Sin título.base",
-    "Labs/Platforms/HackTheBox/Linux/REACTOR.md",
     "Learning/Networking/Data Transmission.md",
     "Power BI/Clase 1.md",
     "Pasted image 20260623194826.png",
     "Power BI",
     "Learning/Active Directory/Estructura de un Active Directory.md",
-    "Learning/Active Directory/Active Directory UDEMY.md",
     "Learning/Active Directory/Comandos de enumeración.md",
     "Labs/Methodologies/RUTA.md",
     "Learning/Networking",
