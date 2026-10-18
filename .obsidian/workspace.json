@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Platforms/HackTheBox/Linux/ENIGMA.md",
+                "file": "Labs/Platforms/HackTheBox/Linux/CAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENIGMA"
+              "title": "CAP"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -171,26 +173,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "6374384e288e0511",
   "lastOpenFiles": [
-    "Labs/Platforms/HackTheBox/Linux/REACTOR.md",
+    "Learning/Linux/NFS.md",
     "Labs/Platforms/HackTheBox/Linux/ENIGMA.md",
-    "Labs/Platforms/HackTheBox/Linux/CAP.md",
+    "README.md",
+    "NFS.md",
+    "Linux.md",
+    "Learning/Linux",
+    "Learning/Networking/Data Transmission.md",
+    "Learning/Basic Concepts/Types of Malware.md",
+    "Learning/Basic Concepts/Software Vulnerabilities.md",
+    "Learning/Basic Concepts/Password Attacks.md",
+    "Learning/Basic Concepts/Pentesting.md",
+    "Learning/Basic Concepts/Certifications.md",
     "Labs/Cheat-Sheets/Linux Capabilities.md",
+    "Power BI/Clase 1.md",
+    "Labs/Platforms/HackTheBox/Linux/CAP.md",
+    "Labs/Platforms/HackTheBox/Linux/REACTOR.md",
     "Sin título.canvas",
     "Learning/Active Directory/Active Directory UDEMY.md",
     "Sin título.base",
-    "Learning/Networking/Data Transmission.md",
-    "Power BI/Clase 1.md",
     "Pasted image 20260623194826.png",
     "Power BI",
     "Learning/Active Directory/Estructura de un Active Directory.md",
@@ -200,11 +212,6 @@
     "Learning/Active Directory/Técnicas de hacking.md",
     "Learning/Active Directory/Comandos y Herramientas.md",
     "Learning/Active Directory",
-    "Learning/Basic Concepts/Types of Malware.md",
-    "Learning/Basic Concepts/Software Vulnerabilities.md",
-    "Learning/Basic Concepts/Pentesting.md",
-    "Learning/Basic Concepts/Password Attacks.md",
-    "Learning/Basic Concepts/Certifications.md",
     "Learning/Basic Concepts",
     "Labs/Platforms/HackTheBox/Linux/RUTA.md",
     "Notas/Pasted image 20260228215258.png",
@@ -215,12 +222,6 @@
     "Labs/Platforms/HackTheBox/Windows",
     "Labs/Platforms/HackTheBox/Linux",
     "Labs/Platforms/HackTheBox",
-    "Labs/Platforms",
-    "Platforms/HackTheBox/Linux/Cheat Sheets/RUTA.md",
-    "Platforms/HackTheBox/Linux/Cheat Sheets/REACTOR.md",
-    "Platforms/HackTheBox/Linux/Cheat Sheets/CAP.md",
-    "Learning/Pasted image 20260228215258.png",
-    "Learning/Redes/Data Transmission.md",
-    "Learning/Directorio Activo/Técnicas de hacking.md"
+    "Learning/Pasted image 20260228215258.png"
   ]
 }
