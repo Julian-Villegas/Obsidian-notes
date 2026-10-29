@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Platforms/HackTheBox/Linux/ENIGMA.md",
+                "file": "Learning/Hacking Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENIGMA"
+              "title": "Hacking Web"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a82e0b23e2ed8f63",
@@ -171,20 +174,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "6374384e288e0511",
   "lastOpenFiles": [
-    "Labs/Platforms/HackTheBox/Linux/CAP.md",
     "Labs/Platforms/HackTheBox/Linux/ENIGMA.md",
+    "Learning/Hacking Web.md",
+    "Learning/Temario-Hacking-Web.md",
     "Labs/Platforms/HackTheBox/Linux/REACTOR.md",
+    "Labs/Platforms/HackTheBox/Linux/CAP.md",
     "Labs/Cheat-Sheets/Linux Capabilities.md",
     "Sin título.canvas",
     "Learning/Active Directory/Active Directory UDEMY.md",
@@ -219,8 +224,6 @@
     "Platforms/HackTheBox/Linux/Cheat Sheets/RUTA.md",
     "Platforms/HackTheBox/Linux/Cheat Sheets/REACTOR.md",
     "Platforms/HackTheBox/Linux/Cheat Sheets/CAP.md",
-    "Learning/Pasted image 20260228215258.png",
-    "Learning/Redes/Data Transmission.md",
-    "Learning/Directorio Activo/Técnicas de hacking.md"
+    "Learning/Pasted image 20260228215258.png"
   ]
 }
